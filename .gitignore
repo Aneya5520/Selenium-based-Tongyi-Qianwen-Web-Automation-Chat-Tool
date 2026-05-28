@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+chat_history/
+chrome_data/
+config.json
+.env
+*.log
+.DS_Store
+Thumbs.db
+*.egg-info/
+dist/
+build/
+.idea/
+.vscode/
+
